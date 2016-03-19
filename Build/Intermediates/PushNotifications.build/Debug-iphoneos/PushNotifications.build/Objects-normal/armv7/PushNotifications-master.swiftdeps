@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "35013fb35524d0aff04003d1e5a72655"
+build_time: [511676749, 518145000]
+inputs:
+  "/Users/rafaelsacchi/Documents/Projects/Mobile Magazine/PushNotifications/PushNotifications/PushNotifications/ViewController.swift": [511676004, 0]
+  "/Users/rafaelsacchi/Documents/Projects/Mobile Magazine/PushNotifications/PushNotifications/PushNotifications/AppDelegate.swift": [511676729, 0]

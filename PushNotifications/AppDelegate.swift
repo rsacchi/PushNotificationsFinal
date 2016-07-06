@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         if let notification = launchOptions?[UIApplicationLaunchOptionsRemoteNotificationKey] as? [String: AnyObject] {
             let aps = notification["aps"] as! [String: String]
             let view = (window?.rootViewController)?.view
-            if aps["backgroun_color"] == "0" {
+            if aps["background_color"] == "0" {
                 view?.backgroundColor = UIColor.whiteColor()
             } else {
                 view?.backgroundColor = UIColor.redColor()
